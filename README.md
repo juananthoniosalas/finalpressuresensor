@@ -140,8 +140,4 @@ Detailed usage guide and UI explanation
 Juan Anthonio Salas, Cheng-Yang Lee
 Date: 2026-01-23
 
-
-
 ---
-
-## 🛠 Requirements
